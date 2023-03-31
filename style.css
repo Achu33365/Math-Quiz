@@ -1,0 +1,44 @@
+body
+{
+	background-image: linear-gradient(to right top, #ffffff,#ffffff, #001aff, #3700ff, #ffffff, #009dff);
+	font-family: 'Lobster', cursive;
+
+}
+
+	.login_div1 , .login_div2
+	{
+
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        font-family: 'Lobster', cursive;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    font-family: 'Lobster', cursive;
+}
+#word
+{
+	width: 60%;
+    font-family: 'Lobster', cursive;
+}
+#word_display
+{
+	letter-spacing: 5px;
+    font-family: 'Lobster', cursive;
+}
+#output
+{
+background: rgb(121, 51, 233);
+border-radius: 10px;
+border-top: 10px solid #00d3f8;
+padding: 10px;
+float: none;
+text-align: left;
+font-family: 'Lobster', cursive;
+}
